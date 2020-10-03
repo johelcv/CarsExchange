@@ -14,7 +14,7 @@ namespace CarsExchange.Data
                 new Car{Id=2,make="Ford",model="Mustang",year=2015},
                 new Car{Id=3,make="Ferrari",model="Portofino",year=2020},
                 new Car{Id=4,make="Aston Martin",model="DBS Superleggera",year=2017},
-                new Car{Id=4,make="Jaguar",model="XKSS",year=1960}
+                new Car{Id=5,make="Jaguar",model="XKSS",year=1960}
             };
 
             return cars;
